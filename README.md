@@ -2,16 +2,6 @@
 
 A funcionalidade de **análise de sentimentos e mineração de opiniões** faz parte da plataforma **Language Studio do Azure**, permitindo **identificar sentimentos positivos, negativos ou neutros** em sentenças. Este repositório apresenta exemplos práticos de testes realizados na plataforma, como parte do **Bootcamp Microsoft Azure AI Fundamentals promovido pela DIO**.
 
-![Status](https://img.shields.io/badge/Status_Projeto:-Concluído_(15/Mar/2024)-green)
-
-![IA](https://img.shields.io/badge/Inteligência_Artificial_(IA)-blue)
-![NLP](https://img.shields.io/badge/NLP-blue)
-![Speech](https://img.shields.io/badge/Speech_Recognition-blue)
-![Sentiment](https://img.shields.io/badge/Sentiment_Mining-blue)
-![Opinion](https://img.shields.io/badge/Opinion_Mining-blue)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-blue)
-![Studio](https://img.shields.io/badge/Azure_Language_Studio-blue)
-
 ---
 
 ## 📑 Índice
